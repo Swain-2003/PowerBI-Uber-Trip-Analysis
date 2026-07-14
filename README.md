@@ -5,8 +5,7 @@ This project is an interactive Power BI dashboard that analyzes Uber trip data a
 
 ## 📊 Dashboard Preview
 
-![Dashboard](Dashboard.png)
-
+![Uber Trip Dashboard](Dashboard/Dashboard.png)
 ## ✨ Key Features
 - Total Bookings
 - Total Booking Amount
